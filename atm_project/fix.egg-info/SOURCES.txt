@@ -1,0 +1,15 @@
+setup.py
+entities/__init__.py
+entities/editt.py
+entities/filter.py
+entities/login.py
+entities/number.py
+entities/person.py
+entities/search.py
+fix.egg-info/PKG-INFO
+fix.egg-info/SOURCES.txt
+fix.egg-info/dependency_links.txt
+fix.egg-info/top_level.txt
+helpers/__init__.py
+helpers/connect.py
+helpers/operations.py
